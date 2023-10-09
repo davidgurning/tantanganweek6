@@ -1,0 +1,85 @@
+body {
+  background-color: aqua;
+}
+.all {
+  text-align: center;
+}
+
+.all a {
+  text-decoration: none;
+  font-size: 20px;
+  font-weight: 600;
+  color: black;
+}
+
+.all .form1 {
+  margin: 50px 600px;
+  padding: 20px;
+  box-shadow: 4px -10px rgb(60, 56, 56);
+  background-color: gray;
+  border-radius: 16px;
+}
+
+.all .form1:hover {
+  margin: 50px 600px;
+  padding: 20px;
+  box-shadow: 4px -10px rgb(60, 56, 56);
+  background-color: gray;
+  border-radius: 16px;
+  cursor: pointer;
+}
+
+.all .form1:active {
+  position: relative;
+  top: -10px;
+  right: 4px;
+  box-shadow: none;
+}
+
+.all .form2 {
+  margin: 50px 600px;
+  padding: 20px;
+  box-shadow: 4px -10px rgb(60, 56, 56);
+  background-color: gray;
+  border-radius: 16px;
+}
+
+.all .form2:hover {
+  margin: 50px 600px;
+  padding: 20px;
+  box-shadow: 4px -10px rgb(60, 56, 56);
+  background-color: gray;
+  border-radius: 16px;
+  cursor: pointer;
+}
+
+.all .form2:active {
+  position: relative;
+  top: -10px;
+  right: 4px;
+  box-shadow: none;
+}
+
+.all .form3 {
+  margin: 50px 600px;
+  padding: 20px;
+  box-shadow: 4px -10px rgb(60, 56, 56);
+  background-color: gray;
+  border-radius: 16px;
+}
+
+.all .form3:hover {
+  margin: 50px 600px;
+  padding: 20px;
+  box-shadow: 4px -10px rgb(60, 56, 56);
+  background-color: gray;
+  border-radius: 16px;
+  cursor: pointer;
+}
+
+.all .form3:active {
+  position: relative;
+  top: -10px;
+  right: 4px;
+  box-shadow: none;
+}
